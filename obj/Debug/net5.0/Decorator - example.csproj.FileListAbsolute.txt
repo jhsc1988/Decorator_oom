@@ -1,0 +1,16 @@
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\Decorator - example.exe
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\Decorator - example.deps.json
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\Decorator - example.runtimeconfig.json
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\Decorator - example.runtimeconfig.dev.json
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\Decorator - example.dll
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\ref\Decorator - example.dll
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\bin\Debug\net5.0\Decorator - example.pdb
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.csproj.AssemblyReference.cache
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.AssemblyInfoInputs.cache
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.AssemblyInfo.cs
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.csproj.CoreCompileInputs.cache
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.dll
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\ref\Decorator - example.dll
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.pdb
+C:\Users\jhsc1\OneDrive\Radna površina\workspace\github\OOM\Decorator - example\Decorator - example\obj\Debug\net5.0\Decorator - example.genruntimeconfig.cache
