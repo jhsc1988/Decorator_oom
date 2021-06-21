@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace decorator
+namespace Decorator___example
 {
     internal class Program
     {
